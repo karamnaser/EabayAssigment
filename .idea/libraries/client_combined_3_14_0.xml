@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="client-combined-3.14.0">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/selenume/client-combined-3.14.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
